@@ -27,7 +27,7 @@ group :development do
   gem 'hub', :require=>nil
   gem 'rails_layout'
   gem 'spring-commands-rspec'
-gem 'web-console', '~> 2.0'
+  gem 'web-console', '~> 2.0'
 end
 group :test do
   gem 'capybara'
